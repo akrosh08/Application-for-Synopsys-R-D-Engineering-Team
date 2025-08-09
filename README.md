@@ -5,7 +5,7 @@ Internship for application for R&amp;D engineering team at Synopsys
 
 a) Exposure to Verilog/SystemVerilog & VHDL – Worked on hardware description, testbench creation, and basic verification flows.
 
-b) Understanding of Digital Design & Computer Architecture – Knowledge of pipelines, memory hierarchy, finite state machines, and timing concepts.
+b) Understanding of Digital Design & Computer Architecture – Knowledge of digital electronics, combinational and sequential circuits, finite state machines, and timing concepts.
 
 c) Problem-solving mindset – Ability to break down complex issues into manageable steps and find efficient solutions.
 
