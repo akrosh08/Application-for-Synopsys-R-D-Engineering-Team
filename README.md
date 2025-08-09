@@ -19,8 +19,13 @@ f) I believe one of my strengths is being a quick and curious learner, which hel
 **Relevant Skills**: VHDL, Verilog, System Verilog, Altium Designer, C (Programming Language), Cadence Virtuoso, Cisco Packet Tracer, MATLAB, OrCAD PSpice, Python (Programming Language), Xilinx Vivado
 
 **Experience**
+
 a) Semiconductor Laboratory (SCL) Mohali: Worked as a trainee in Testing Division in Optical Communication Field where I have done Study of Single Photon Avalanche Diode (SPAD) and its applications and Testing of various SPAD devices and SiPM using Manual Prober and Parametric Analyzer.
+
 b) IIT Jodhpur: Image Processing in MATLAB and HDL code generation of the Image Processing codes using HDL Coder.
+
 c) IIT BHU: IoT Device for ECG Monitoring. Done Study of research papers on Hardware Accelerated Convolution Neural Network on PYNQ Board and related.
+
 d) NTPC Auraiya: Training in Control and Instrumentation Department.
+
 e) GAIL Pata: Training under Telecommunication Department, GAILTEL.
